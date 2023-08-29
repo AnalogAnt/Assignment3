@@ -1,0 +1,15 @@
+.tabItem {
+  margin-left: 10px;
+}
+.butt {
+  color: white;
+  background-color: transparent;
+  border-style: none;
+  font-size: 20px;
+}
+.authClass {
+  color: #fec653 !important;
+  background-color: transparent;
+  border-style: none;
+  font-size: 20px;
+}
